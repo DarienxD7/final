@@ -1,0 +1,67 @@
+[
+  {
+    "label": "PRINCIPAL",
+    "path": "/principal",
+    "icon": "Home",
+    "children": [
+      { "label": "MI PERFIL", "path": "/principal/mi-perfil" },
+      { "label": "REGISTRAR TELEFONO Y EMAIL", "path": "/principal/registrar-contacto" },
+      { "label": "PROGRAMACION LABORATORIO", "path": "/principal/programacion-laboratorio" },
+      { "label": "VER MI PROGRAMACION", "path": "/principal/ver-programacion" },
+      { "label": "VER NOTAS", "path": "/principal/ver-notas" },
+      { "label": "PLAN DE ESTUDIOS", "path": "/principal/plan-estudios" },
+      { "label": "DESCARGA DE MATERIAL", "path": "/principal/descarga-material" },
+      { "label": "CARNET UNIVERSITARIO", "path": "/principal/carnet-universitario" },
+      { "label": "IMPRIMIR MI KARDEX", "path": "/principal/imprimir-kardex" },
+      { "label": "IMPRIMIR MI KARDEX PENSUM", "path": "/principal/imprimir-kardex-pensum" }
+    ]
+  },
+  {
+    "label": "BECAS",
+    "path": "/becas",
+    "icon": "CircleDollarSign",
+    "children": [
+      { "label": "BECA ALIMENTACIÓN", "path": "/becas/alimentacion" },
+      { "label": "FORMULARIO BECA AUXILIATURA", "path": "/becas/auxiliatura" },
+      { "label": "FORMULARIO BECA TRABAJO", "path": "/becas/trabajo" },
+      { "label": "FORMULARIO BECA TRABAJO EXTENSIÓN", "path": "/becas/trabajo-extension" },
+      { "label": "FORMULARIO BECA GRADUACION", "path": "/becas/graduacion" },
+      { "label": "CUENTA BANCARIA", "path": "/becas/cuenta-bancaria" }
+    ]
+  },
+  {
+    "label": "EXTENSION LIBRE",
+    "path": "/extension-libre",
+    "icon": "BookOpen",
+    "children": [
+      { "label": "POSTULACIÓN", "path": "/extension-libre/postulacion" }
+    ]
+  },
+  {
+    "label": "MATRICULAS",
+    "path": "/matriculas",
+    "icon": "BookMarked",
+    "children": [
+      { "label": "MATRICULA DIGITAL", "path": "/matriculas/digital" },
+      { "label": "MIS MATRICULAS", "path": "/matriculas/mis-matriculas" }
+    ]
+  },
+  {
+    "label": "TRAMITES",
+    "path": "/tramites",
+    "icon": "Repeat",
+    "children": [
+      { "label": "SUSPENSION/READMISION", "path": "/tramites/suspension-readmision" },
+      { "label": "SOLICITAR ACTA DE GRADUACIÓN", "path": "/tramites/acta-graduacion" }
+    ]
+  },
+  {
+    "label": "OTROS",
+    "path": "/otros",
+    "icon": "FileText",
+    "children": [
+      { "label": "TUTORIAL MOODLE", "path": "/otros/tutorial-moodle" },
+      { "label": "MANUAL MOODLE", "path": "/otros/manual-moodle" }
+    ]
+  }
+]
