@@ -1,0 +1,141 @@
+.becas-mensaje {
+  text-align: center;
+  color: #64748b;
+  font-size: 14px;
+  padding: 40px 0;
+}
+
+.becas-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 0;
+  border-bottom: 1px solid #e2e8f0;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.becas-toolbar-label {
+  font-size: 13px;
+  color: #3d5468;
+}
+
+.becas-toolbar-label small {
+  color: #94a3b8;
+}
+
+.becas-btn-azul {
+  background-color: #2f6fce;
+  color: #ffffff;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 3px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.becas-btn-azul:hover {
+  background-color: #255aa8;
+}
+
+.becas-btn-verde {
+  background-color: #1fbf9f;
+  color: #ffffff;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 3px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.becas-btn-verde:hover {
+  background-color: #18a389;
+}
+
+.becas-btn-link {
+  background: none;
+  border: none;
+  color: #2f6fce;
+  cursor: pointer;
+  font-size: 12px;
+  text-decoration: underline;
+  padding: 0;
+}
+
+.becas-tabla {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+  font-size: 13px;
+}
+
+.becas-tabla thead th {
+  background-color: #3d5468;
+  color: #ffffff;
+  text-align: left;
+  padding: 12px;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+}
+
+.becas-tabla tbody td {
+  padding: 12px;
+  border-bottom: 1px solid #e2e8f0;
+  color: #475569;
+}
+
+.becas-tabla-vacia {
+  text-align: center;
+  color: #94a3b8;
+  padding: 20px !important;
+}
+
+.becas-form-inline {
+  display: flex;
+  gap: 10px;
+  padding: 14px 0;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.becas-form-inline input {
+  padding: 8px 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 3px;
+  font-size: 13px;
+}
+
+.becas-cuenta-form {
+  max-width: 420px;
+  padding-top: 10px;
+}
+
+.becas-label {
+  display: block;
+  font-size: 12px;
+  color: #3d5468;
+  font-weight: bold;
+  margin: 16px 0 6px;
+}
+
+.becas-select,
+.becas-input {
+  width: 100%;
+  padding: 9px 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 3px;
+  font-size: 13px;
+  color: #334155;
+}
+
+.becas-cuenta-botones {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.becas-nota {
+  margin-top: 14px;
+  font-size: 12px;
+  color: #64748b;
+}
