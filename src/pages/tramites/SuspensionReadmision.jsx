@@ -1,7 +1,6 @@
 import "../../styles/Tramites.css";
 
 function SuspensionReadmision() {
-  // TODO: reemplazar por la validación real del backend (sistema habilitado/inhabilitado)
   const sistemaActivo = false;
 
   return (

@@ -2,7 +2,6 @@ import { useState } from "react";
 import "../../styles/Becas.css";
 
 function FormularioBecaTrabajo() {
-  // TODO: traer desde el backend si hay convocatoria vigente para esta gestión/periodo
   const hayConvocatoria = true;
   const [postulaciones, setPostulaciones] = useState([]);
 

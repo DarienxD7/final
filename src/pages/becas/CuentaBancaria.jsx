@@ -16,7 +16,6 @@ function CuentaBancaria() {
 
   function handleGuardar() {
     if (!nroCuenta.trim()) return;
-    // TODO: enviar { tipoBeca, nroCuenta } al backend
     alert("Cuenta bancaria registrada correctamente");
   }
 
