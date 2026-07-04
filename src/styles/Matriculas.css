@@ -1,0 +1,31 @@
+.matricula-mensaje {
+  text-align: center;
+  padding: 30px 0 10px;
+}
+
+.matricula-mensaje p {
+  color: #64748b;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.matricula-mensaje-error {
+  text-align: center;
+  color: #c0392b;
+  font-size: 14px;
+  padding: 30px 0;
+}
+
+.matricula-btn-imprimir {
+  background-color: #4ea9d9;
+  color: #ffffff;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 3px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.matricula-btn-imprimir:hover {
+  background-color: #3d92c0;
+}

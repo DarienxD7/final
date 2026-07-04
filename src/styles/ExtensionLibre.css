@@ -1,0 +1,49 @@
+.postulacion-cursos {
+  max-width: 700px;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+.postulacion-cursos-header {
+  background-color: #f8fafc;
+  color: #3d5468;
+  font-weight: bold;
+  font-size: 13px;
+  text-align: center;
+  padding: 12px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.postulacion-curso-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.postulacion-curso-row:last-child {
+  border-bottom: none;
+}
+
+.postulacion-curso-nombre {
+  color: #3d5468;
+  font-size: 13px;
+}
+
+.postulacion-btn-imprimir {
+  background-color: #1fbf9f;
+  color: #ffffff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 3px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.postulacion-btn-imprimir:hover {
+  background-color: #18a389;
+}
